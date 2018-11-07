@@ -1,0 +1,9 @@
+git co  zxm1
+git pull origin zxm1
+git co master
+git  merge zxm1
+
+git co  zxm2
+git pull origin zxm2
+git co master
+git  merge zxm2
