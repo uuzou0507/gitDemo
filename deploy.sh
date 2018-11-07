@@ -7,7 +7,7 @@ echo "git co master"
 git  merge zxm1
 echo "git  merge zxm1"
 
-:<<!
+
 git co  zxm2
 git pull origin zxm2
 git co master
@@ -20,4 +20,3 @@ git co master
 git  merge zxm3
 
 git push origin master
-!
